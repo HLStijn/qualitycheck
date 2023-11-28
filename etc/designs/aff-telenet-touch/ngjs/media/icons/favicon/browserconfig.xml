@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<browserconfig>
-    <msapplication>
-        <tile>
-            <square150x150logo src="/etc/designs/aff-telenet-touch/ngjs/media/icons/favicon/mstile-144x144.png"/>
-            <TileColor>#ffc421</TileColor>
-        </tile>
-    </msapplication>
-</browserconfig>
