@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'telenet_albra_sansbold';
+    src: url('telenet-albra-sans-bold-webfont.woff2') format('woff2'),
+         url('telenet-albra-sans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
